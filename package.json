@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@remotion/player": "^4.0.288",
+    "react-device-detect": "^2.2.3"
+  }
+}
